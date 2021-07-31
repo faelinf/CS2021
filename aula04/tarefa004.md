@@ -2,7 +2,7 @@
 <DIV align="justify">
 
 1. Qual o nome do branch padrão do Git?
-O nome é master.
+O nome é master
 2. O que o comando **<code>git branch nome</code>** realiza?
 Esse comendo define um branch com o nome definido.
 3. Como criar um branch a partir de um commit específico?
