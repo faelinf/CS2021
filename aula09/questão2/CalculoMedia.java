@@ -1,3 +1,5 @@
+package questão2;
+
 public class CalculoMedia {
     public static void main(String args[]) {
 
