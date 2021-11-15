@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-cs-2021-1",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
